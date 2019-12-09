@@ -1,0 +1,6 @@
+Tai khoan user:
+UserName:hcmute
+Pass:123456
+Tài khoan quan tri vien :
+UserName:admin
+Pass:admin
